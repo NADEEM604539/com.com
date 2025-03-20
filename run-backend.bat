@@ -1,0 +1,3 @@
+@echo off
+echo Starting E-Commerce Backend...
+cmd /c "npx nodemon server.js"
